@@ -43,7 +43,7 @@ ______________________________________________________________________
 
 Naudojant K-means:
 
-![K-means.png](K-means.png)
+![K-means.png](sveikatos_analize%2FK-means.png)
 
 Modelio metrikų įvertinimas:
 
@@ -54,7 +54,7 @@ Modelio metrikų įvertinimas:
 
 Geriausių klasterių skaičius nustatytas naudojant Silhouette score ir Elbow grafiką:
 
-![Elbow.png](Elbow.png)
+![Elbow.png](sveikatos_analize%2FElbow.png)
 
 ⫸ The best silhouette score is with 3 clusters
 
@@ -82,7 +82,7 @@ ______________________________________________________________________
 
 Naudojant RandomForest:
 
-![randomforest.png](randomforest.png)
+![randomforest.png](sveikatos_analize%2Frandomforest.png)
 
 Modelio metrikų įvertinimas:
 
@@ -94,7 +94,7 @@ ______________________________________________________________________
 
 Naudojant LogisticRegression:
 
-![ROCcurve.png](ROCcurve.png)
+![ROCcurve.png](sveikatos_analize%2FROCcurve.png)
 
 Modelio metrikų įvertinimas:
 
@@ -104,10 +104,5 @@ ______________________________________________________________________
 
 Naudojant DBSCAN:
 
-![dbscan.png](dbscan.png)
-
-
-
-
-
+![dbscan.png](sveikatos_analize%2Fdbscan.png)
 
