@@ -82,7 +82,7 @@ ______________________________________________________________________
 
 Naudojant RandomForest:
 
-[II_RandomForest.py](sveikatos_analize%2FII_RandomForest.py)
+![II_RandomForest.png](sveikatos_analize%2FII_RandomForest.png)
 
 Modelio metrikų įvertinimas:
 
@@ -104,5 +104,5 @@ ______________________________________________________________________
 
 Naudojant DBSCAN:
 
-[II_DBSCAN.py](sveikatos_analize%2FII_DBSCAN.py)
+![II_dbscan.png](sveikatos_analize%2FII_dbscan.png)
 
