@@ -21,7 +21,7 @@ modelio mokymas ir įvertinimas , hiperparametrų derinimas ir modelio optimizav
 
 Naudojant LinearRegression:
 
-![linearregressionok.png](linearregressionok.png)
+![linearregressionok.png](sveikatos_analize%2Flinearregressionok.png)
 
 Modelio metrikų įvertinimas:
 
