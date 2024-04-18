@@ -2,17 +2,17 @@ Komandinis darbas, sveikatos indekso analizė ✔
 
 ⫸ Visos šalys
 
-![img_2.png](sveikatos_analize%2Fimg_2.png)
+![I_img_3.png](sveikatos_analize%2FI_img_3.png)
 
 ______________________________________________________________________
 ⫸ Baltijos ir Skandinavijos šalys
 
-![img_1.png](sveikatos_analize%2Fimg_1.png)
+![I_img_2.png](sveikatos_analize%2FI_img_2.png)
 
 ______________________________________________________________________
 ⫸ Baltijos šalys
 
-![img.png](sveikatos_analize%2Fimg.png)
+![I_img_1.png](sveikatos_analize%2FI_img_1.png)
 
 
 ______________________________________________________________________
@@ -21,7 +21,7 @@ modelio mokymas ir įvertinimas , hiperparametrų derinimas ir modelio optimizav
 
 Naudojant LinearRegression:
 
-![linearregressionok.png](sveikatos_analize%2Flinearregressionok.png)
+![II_LinearRegression.png](sveikatos_analize%2FII_LinearRegression.png)
 
 Modelio metrikų įvertinimas:
 
@@ -43,7 +43,7 @@ ______________________________________________________________________
 
 Naudojant K-means:
 
-![K-means.png](sveikatos_analize%2FK-means.png)
+![II_K-means.png](sveikatos_analize%2FII_K-means.png)
 
 Modelio metrikų įvertinimas:
 
@@ -54,7 +54,7 @@ Modelio metrikų įvertinimas:
 
 Geriausių klasterių skaičius nustatytas naudojant Silhouette score ir Elbow grafiką:
 
-![Elbow.png](sveikatos_analize%2FElbow.png)
+![II_Elbow.png](sveikatos_analize%2FII_Elbow.png)
 
 ⫸ The best silhouette score is with 3 clusters
 
@@ -82,7 +82,7 @@ ______________________________________________________________________
 
 Naudojant RandomForest:
 
-![randomforest.png](sveikatos_analize%2Frandomforest.png)
+[II_RandomForest.py](sveikatos_analize%2FII_RandomForest.py)
 
 Modelio metrikų įvertinimas:
 
@@ -94,7 +94,7 @@ ______________________________________________________________________
 
 Naudojant LogisticRegression:
 
-![ROCcurve.png](sveikatos_analize%2FROCcurve.png)
+![II_ROCcurve.png](sveikatos_analize%2FII_ROCcurve.png)
 
 Modelio metrikų įvertinimas:
 
@@ -104,5 +104,5 @@ ______________________________________________________________________
 
 Naudojant DBSCAN:
 
-![dbscan.png](sveikatos_analize%2Fdbscan.png)
+[II_DBSCAN.py](sveikatos_analize%2FII_DBSCAN.py)
 
